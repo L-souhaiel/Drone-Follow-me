@@ -22,4 +22,5 @@ Two concepts are discussed here:
 # Drone system architecture
 For any given solution, the backend design shall remain the same independant from  the frontend and shall be scalable(when adding more ressources) and portable(when switching to other platforms).
 From a high level point of of view,  the following design describes a drone:
-[simple drone design](ressources/Untitled%20Diagram.drawio.png)
+
+![simple drone design](ressources/Untitled%20Diagram.drawio.png)
