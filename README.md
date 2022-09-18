@@ -29,3 +29,9 @@ From a high level point of of view,  the following design describes a drone:
 
 A class Diagram for the drone system is illustrated below:
 ![simple drone design](ressources/drone.png)
+
+## Useful links
+
+- Command Design Pattern: https://refactoring.guru/design-patterns/command
+- Drone Algorithms: https://ardupilot.org/
+- ESP32 web interface: https://github.com/s00500/ESPUI
