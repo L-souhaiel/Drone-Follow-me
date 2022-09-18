@@ -24,3 +24,8 @@ For any given solution, the backend design shall remain the same independant fro
 From a high level point of of view,  the following design describes a drone:
 
 ![simple drone design](ressources/Untitled%20Diagram.drawio.png)
+
+## Drone Class Diagram
+
+A class Diagram for the drone system is illustrated below:
+![simple drone design](ressources/drone.png)
